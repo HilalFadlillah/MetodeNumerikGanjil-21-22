@@ -2,5 +2,6 @@
 using namespace std;
 
 int main (){
-	cout << "Hello Wrold";
+
+	cout << "Hello World dari file kedua";
 }
